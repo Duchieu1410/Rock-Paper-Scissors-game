@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors-game
-Made with C#
+Made with VSCode and .NET
+
